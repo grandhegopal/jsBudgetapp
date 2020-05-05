@@ -1,0 +1,147 @@
+{
+  "products":[
+    {
+      "productId": 1,
+      "productTitle": "Veirdo Men's Cotton Round Neck T-Shirt",
+      "mrp": 999,
+      "sellingPrice": 299,
+      "productReview": 135,
+      "productImage": "assets/ProductImages/Item4.jpg",
+      "isNew": 1,
+      "deal": {
+          "startdate": "01-12-2019",
+          "enddate": "31-12-2019"
+      }
+
+    },
+    {
+      "productId": 2,
+      "productTitle": "Tee Town Apna Time Aayega Cotton Round Neck T-Shirt for Mens",
+      "mrp": 499,
+      "sellingPrice": 298,
+      "productReview": 23,
+      "productImage": "assets/ProductImages/Item7.jpg",
+      "isNew": 1,
+      "deal": {
+        "startdate": "01-12-2019",
+        "enddate": "31-12-2019"
+      }
+
+    },
+    {
+      "productId": 3,
+      "productTitle": "CHKOKKO Men Active Wear Round Neck Regular Dry Fit Stretchable Yoga Gym Sports Tshirts",
+      "mrp": 1169,
+      "sellingPrice": 463,
+      "productReview": 96,
+      "productImage": "assets/ProductImages/Item3.jpg",
+      "isNew": 1,
+      "deal": {
+        "startdate": "01-12-2019",
+        "enddate": "31-12-2019"
+      }
+
+    },
+    {
+      "productId": 4,
+      "productTitle": "WAKE UP COMPETITION Men's Cotton Blend Trackpant",
+      "mrp": 895,
+      "sellingPrice": 395,
+      "productReview": 3,
+      "productImage": "assets/ProductImages/Item2.jpg",
+      "isNew": 1,
+      "deal": {
+        "startdate": "01-12-2019",
+        "enddate": "31-12-2019"
+      }
+
+    },
+    {
+      "productId": 5,
+      "productTitle": "SHAUN Men's Cotton Lycra Skull Cap (Multicolor_Free Size) (Pack of 1)",
+      "mrp": 699,
+      "sellingPrice": 199,
+      "productReview": 4,
+      "productImage": "assets/ProductImages/Item6.jpg",
+      "isNew": 1,
+      "deal": {
+        "startdate": "01-12-2019",
+        "enddate": "31-12-2019"
+      }
+
+    },
+    {
+      "productId": 6,
+      "productTitle": "UZARUS Men's Solid Round Neck Thermal TOP",
+      "mrp": 999,
+      "sellingPrice": 2349,
+      "productReview": 5,
+      "productImage": "assets/ProductImages/Item5.jpg",
+      "isNew": 1,
+      "deal": {
+        "startdate": "01-12-2019",
+        "enddate": "31-12-2019"
+      }
+
+    },
+    {
+      "productId": 7,
+      "productTitle": "BIZZARE Men's Cotton Ny Baseball Cap (Black)",
+      "mrp": 499,
+      "sellingPrice": 2299,
+      "productReview": 5,
+      "productImage": "assets/ProductImages/Cap.jpg",
+      "isNew": 1,
+      "deal": {
+        "startdate": "01-12-2019",
+        "enddate": "31-12-2019"
+      }
+
+    },
+    {
+      "productId": 8,
+      "productTitle": "Alfami Genuine Black Leather Belt for Men (All Sizes 28 to 46) 6 Month Warranty, gents belt",
+      "mrp": 1499,
+      "sellingPrice": 1399,
+      "productReview": 4,
+      "productImage":"assets/ProductImages/Belt.jpg",
+      "isNew": 1,
+      "deal": {
+        "startdate": "01-12-2019",
+        "enddate": "31-12-2019"
+      }
+
+    },
+    {
+      "productId": 9,
+      "productTitle": "Scullcandy VR BOX grind Wireless (White)",
+      "mrp": 400,
+      "sellingPrice": 1299,
+      "productReview": 5,
+      "productImage": "assets/ProductImages/gallery1.jpg",
+      "isNew": 1,
+      "deal": {
+        "startdate": "01-12-2019",
+        "enddate": "31-12-2019"
+      }
+
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
